@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am an aspiring software developer. I am part of Bootcamp 12 with School of Code. Looking forward to my journey into code and tech. My initial journey will include
+
+- Learning and devloping my skills in HTML, CSS and Javascript
+- Understand Git and Github
+- Having fun along the way
+
 <!--
 **KhullyMall/KhullyMall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
